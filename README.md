@@ -1,6 +1,6 @@
 # ncov2019-updates
 
-A simple Raspberry Pi python program to show nCOV2019 updates, two popular datasource is included.
+A simple Raspberry Pi python program to show nCOV2019 updates, two popular datasources are included.
 
 ## Usage:
 1. clone lcddriver from https://github.com/the-raspberry-pi-guy/lcd/
